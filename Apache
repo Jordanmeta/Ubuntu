@@ -1,0 +1,2 @@
+#instalando Apache
+sudo apt install apache2
