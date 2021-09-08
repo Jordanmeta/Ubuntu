@@ -1,0 +1,2 @@
+Instalando PhpMyAdmin
+sudo apt install phpmyadmin -y
